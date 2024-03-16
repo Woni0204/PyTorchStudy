@@ -25,3 +25,13 @@ Studying about PyTorch Tutorial!<br>
 | Autograd | O | [Official link](https://pytorch.org/tutorials/beginner/basics/autogradqs_tutorial.html) |
 | Optimization | O | [Official link](https://pytorch.org/tutorials/beginner/basics/optimization_tutorial.html) |
 | Save & Load Model | O | [Official link](https://pytorch.org/tutorials/beginner/basics/saveloadrun_tutorial.html) |
+
+## Introduction to PyTorch on YouTube
+| Subtitle | Upload | link (PyTorch official) |
+| ------- | --- | ------ |
+| Tensors | X | [Official link](https://pytorch.org/tutorials/beginner/introyt/tensors_deeper_tutorial.html) |
+| Autograd | X | [Official link](https://pytorch.org/tutorials/beginner/introyt/autogradyt_tutorial.html) |
+| Building Models | X | [Official link](https://pytorch.org/tutorials/beginner/introyt/modelsyt_tutorial.html) |
+| TensorBoard Support | X | [Official link](https://pytorch.org/tutorials/beginner/introyt/tensorboardyt_tutorial.html) |
+| Training Models | X | [Official link](https://pytorch.org/tutorials/beginner/introyt/trainingyt.html) |
+| Model Understanding | X | [Official link](https://pytorch.org/tutorials/beginner/introyt/captumyt.html) |
