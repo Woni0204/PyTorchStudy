@@ -1,7 +1,7 @@
 # PyTorch Study
 <div align="center">
 
-<br>
+<br />
 
 Studying about [Pytorch Tutorial](https://pytorch.org/tutorials/)!<br>
 
@@ -11,13 +11,13 @@ Studying about [Pytorch Tutorial](https://pytorch.org/tutorials/)!<br>
 [![GitHub issues](https://img.shields.io/github/issues/Woni0204/PyTorchStudy?color=%232da44e)](https://github.com/Woni0204/PyTorchStudy/issues)
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Woni0204/PyTorchStudy?color=%238250df)](https://github.com/Woni0204/PyTorchStudy/pulls)
 
-<br>
+<br />
 
 </div>
 
 * The information below is about the progress of the original content on the PyTorch homepage.
 
-<br>
+<br />
 ## Learn the Basics
 | Subtitle | Upload | link (PyTorch official) |
 | ------- | --- | ------ |
@@ -30,7 +30,7 @@ Studying about [Pytorch Tutorial](https://pytorch.org/tutorials/)!<br>
 | Optimization | O | [Official link](https://pytorch.org/tutorials/beginner/basics/optimization_tutorial.html) |
 | Save & Load Model | O | [Official link](https://pytorch.org/tutorials/beginner/basics/saveloadrun_tutorial.html) |
 
-<br>
+<br />
 ## Introduction to PyTorch on YouTube
 | Subtitle | Upload | link (PyTorch official) |
 | ------- | --- | ------ |
