@@ -1,7 +1,6 @@
 # PyTorch Study
 <div align="center">
 
-<br />
 
 Studying about [Pytorch Tutorial](https://pytorch.org/tutorials/)!<br>
 
@@ -11,7 +10,6 @@ Studying about [Pytorch Tutorial](https://pytorch.org/tutorials/)!<br>
 [![GitHub issues](https://img.shields.io/github/issues/Woni0204/PyTorchStudy?color=%232da44e)](https://github.com/Woni0204/PyTorchStudy/issues)
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Woni0204/PyTorchStudy?color=%238250df)](https://github.com/Woni0204/PyTorchStudy/pulls)
 
-<br />
 
 </div>
 
