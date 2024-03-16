@@ -15,7 +15,6 @@ Studying about [Pytorch Tutorial](https://pytorch.org/tutorials/)!<br>
 
 * The information below is about the progress of the original content on the PyTorch homepage.
 
-<br />
 ## Learn the Basics
 | Subtitle | Upload | link (PyTorch official) |
 | ------- | --- | ------ |
@@ -28,7 +27,6 @@ Studying about [Pytorch Tutorial](https://pytorch.org/tutorials/)!<br>
 | Optimization | O | [Official link](https://pytorch.org/tutorials/beginner/basics/optimization_tutorial.html) |
 | Save & Load Model | O | [Official link](https://pytorch.org/tutorials/beginner/basics/saveloadrun_tutorial.html) |
 
-<br />
 ## Introduction to PyTorch on YouTube
 | Subtitle | Upload | link (PyTorch official) |
 | ------- | --- | ------ |
