@@ -2,11 +2,12 @@
 
 <div align="center">
 
-* Studying about PyTorch Tutorial!<br>
+Studying about PyTorch Tutorial!<br>
 [Pytorch Tutorial](https://pytorch.org/tutorials/)
 
 ![GitHub contributors](https://img.shields.io/github/contributors/Woni0204/PyTorchStudy)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Woni0204/PyTorchStudy)
+[![GitHub issues](https://img.shields.io/github/issues/Woni0204/PyTorchStudy?color=%232da44e)](https://github.com/Woni0204/PyTorchStudy/issues)
 
 </div>
 
