@@ -14,6 +14,7 @@ Studying about [Pytorch Tutorial](https://pytorch.org/tutorials/)!<br>
 </div>
 
 * The information below is about the progress of the original content on the PyTorch homepage.
+* There is only the executed ipynb file.
 
 ## Learn the Basics
 | Subtitle | Upload | link (PyTorch official) |
