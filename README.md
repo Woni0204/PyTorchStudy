@@ -17,7 +17,7 @@ Studying about [Pytorch Tutorial](https://pytorch.org/tutorials/)!<br>
 </div>
 
 * The information below is about the progress of the original content on the PyTorch homepage.
-* Dataset will not upload. (Because There has just ipynb file.)
+* I just upload ipynb file.
 * There is only the executed ipynb file.
 * Please tell me if I did something wrong!
 
