@@ -1,9 +1,10 @@
 # PyTorch Study
-<div align="center">
 
 <p align="center">
   <img src = "./Pytorch.png">
 </p>
+<div align="center">
+
 Studying about [Pytorch Tutorial](https://pytorch.org/tutorials/)!<br>
 
 
