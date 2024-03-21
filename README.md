@@ -46,4 +46,4 @@ Studying about [Pytorch Tutorial](https://pytorch.org/tutorials/)!<br>
 ## Learning PyTorch with Examples
 | Subtitle | Upload | link (PyTorch official) |
 | ------- | --- | ------ |
-| Learning PyTorch with Examples | O | [Official link]([https://pytorch.org/tutorials/beginner/introyt/tensors_deeper_tutorial.html](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html) |
+| Learning PyTorch with Examples | X | [Official link](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html) |
