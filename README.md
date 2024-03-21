@@ -2,7 +2,7 @@
 <div align="center">
 
 <p align="center">
-  ![Poster](Pytorch.png)
+  <img src = "./Pytorch.png">
 </p>
 Studying about [Pytorch Tutorial](https://pytorch.org/tutorials/)!<br>
 
