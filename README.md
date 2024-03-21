@@ -1,7 +1,10 @@
 # PyTorch Study
+
+<p align="center">
+  <img src = "./Pytorch.png">
+</p>
 <div align="center">
 
-![Poster](Pytorch.png)
 Studying about [Pytorch Tutorial](https://pytorch.org/tutorials/)!<br>
 
 
