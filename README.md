@@ -42,3 +42,8 @@ Studying about [Pytorch Tutorial](https://pytorch.org/tutorials/)!<br>
 | TensorBoard Support | O | [Official link](https://pytorch.org/tutorials/beginner/introyt/tensorboardyt_tutorial.html) |
 | Training Models | O | [Official link](https://pytorch.org/tutorials/beginner/introyt/trainingyt.html) |
 | Model Understanding | O | [Official link](https://pytorch.org/tutorials/beginner/introyt/captumyt.html) |
+
+## Learning PyTorch with Examples
+| Subtitle | Upload | link (PyTorch official) |
+| ------- | --- | ------ |
+| Learning PyTorch with Examples | O | [Official link]([https://pytorch.org/tutorials/beginner/introyt/tensors_deeper_tutorial.html](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html) |
