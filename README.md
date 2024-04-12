@@ -17,7 +17,7 @@ Studying about [Pytorch Tutorial](https://pytorch.org/tutorials/)!<br>
 </div>
 
 * The information below is about the progress of the original content on the PyTorch homepage.
-* Dataset will not upload. (Because There has just ipynb file.)
+* I just upload ipynb file.
 * There is only the executed ipynb file.
 * Please tell me if I did something wrong!
 
@@ -36,9 +36,14 @@ Studying about [Pytorch Tutorial](https://pytorch.org/tutorials/)!<br>
 ## Introduction to PyTorch on YouTube
 | Subtitle | Upload | link (PyTorch official) |
 | ------- | --- | ------ |
-| Tensors | X | [Official link](https://pytorch.org/tutorials/beginner/introyt/tensors_deeper_tutorial.html) |
-| Autograd | X | [Official link](https://pytorch.org/tutorials/beginner/introyt/autogradyt_tutorial.html) |
-| Building Models | X | [Official link](https://pytorch.org/tutorials/beginner/introyt/modelsyt_tutorial.html) |
-| TensorBoard Support | X | [Official link](https://pytorch.org/tutorials/beginner/introyt/tensorboardyt_tutorial.html) |
-| Training Models | X | [Official link](https://pytorch.org/tutorials/beginner/introyt/trainingyt.html) |
-| Model Understanding | X | [Official link](https://pytorch.org/tutorials/beginner/introyt/captumyt.html) |
+| Tensors | O | [Official link](https://pytorch.org/tutorials/beginner/introyt/tensors_deeper_tutorial.html) |
+| Autograd | O | [Official link](https://pytorch.org/tutorials/beginner/introyt/autogradyt_tutorial.html) |
+| Building Models | O | [Official link](https://pytorch.org/tutorials/beginner/introyt/modelsyt_tutorial.html) |
+| TensorBoard Support | O | [Official link](https://pytorch.org/tutorials/beginner/introyt/tensorboardyt_tutorial.html) |
+| Training Models | O | [Official link](https://pytorch.org/tutorials/beginner/introyt/trainingyt.html) |
+| Model Understanding | O | [Official link](https://pytorch.org/tutorials/beginner/introyt/captumyt.html) |
+
+## Learning PyTorch with Examples
+| Subtitle | Upload | link (PyTorch official) |
+| ------- | --- | ------ |
+| Learning PyTorch with Examples | X | [Official link](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html) |
