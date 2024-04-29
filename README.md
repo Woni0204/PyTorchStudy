@@ -23,7 +23,7 @@ Studying about [Pytorch Tutorial](https://pytorch.org/tutorials/)!<br>
 
 ## Course
 | Title | Subtitle | Upload My Code | Link (PyTorch official) |
-| --------------- | --------------- | --- | -------- |
+| --------------- | --------------- | :---: | -------- |
 | Learn the Basics | Quickstart | [O](https://github.com/Woni0204/PyTorchStudy/blob/main/Learn%20the%20Basics/%EB%B9%A0%EB%A5%B8%EC%8B%9C%EC%9E%91(Quickstart).ipynb) | [Official link](https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html) |
 | Learn the Basics | Tensors | [O](https://github.com/Woni0204/PyTorchStudy/blob/main/Learn%20the%20Basics/%ED%85%90%EC%84%9C(Tensor).ipynb) | [Official link](https://pytorch.org/tutorials/beginner/basics/tensorqs_tutorial.html) |
 | Learn the Basics | Datasets & DataLoaders | [O](https://github.com/Woni0204/PyTorchStudy/blob/main/Learn%20the%20Basics/Dataset%EA%B3%BC%20DataLoader.ipynb) | [Official link](https://pytorch.org/tutorials/beginner/basics/data_tutorial.html) |
