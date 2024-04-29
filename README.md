@@ -47,3 +47,23 @@ Studying about [Pytorch Tutorial](https://pytorch.org/tutorials/)!<br>
 | Subtitle | Upload | link (PyTorch official) |
 | ------- | --- | ------ |
 | Learning PyTorch with Examples | O | [Official link](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html) |
+
+## What is torch.nn really?
+| Subtitle | Upload | link (PyTorch official) |
+| ------- | --- | ------ |
+| What is torch.nn really? | O | [Official link](https://pytorch.org/tutorials/beginner/nn_tutorial.html) |
+
+## Visualizing Models, Data and Training with TensorBoard
+| Subtitle | Upload | link (PyTorch official) |
+| ------- | --- | ------ |
+| Visualizing Models, Data, and Training with TensorBoard | O | [Official link](https://pytorch.org/tutorials/intermediate/tensorboard_tutorial.html) |
+
+## TorchVision Object Detection Finetuning Tutorial
+| Subtitle | Upload | link (PyTorch official) |
+| ------- | --- | ------ |
+| TorchVision Object Detection Finetuning Tutorial | O | [Official link](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html) |
+
+## Transfer Learning for Computer Vision Tutorial
+| Subtitle | Upload | link (PyTorch official) |
+| ------- | --- | ------ |
+| Transfer Learning for Computer Vision Tutorial | O | [Official link](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html) |
